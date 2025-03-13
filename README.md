@@ -28,6 +28,7 @@
 <u>Non-functional requirements</u>
 
 ***Performance***
+
 Quick Processing: Actions like borrowing or reserving books must be processed quickly to ensure a smooth user experience.
 
 ***Usability***
@@ -51,5 +52,9 @@ Scalable: The system should be able to scale to accommodate an increasing number
 ## UML Class Diagram
 
 ![UML DIAGRAM](https://github.com/user-attachments/assets/77a1412f-312e-45e1-aff2-3fe19db5dcc6)
+
+## Additional Information
+
+I forgot to git commit. I put old revisions of my code to show my progress as a replacement instead. They are named after different stages of progress getting certain parts of my code to work, mostly milestones that I have saved.
 
 
