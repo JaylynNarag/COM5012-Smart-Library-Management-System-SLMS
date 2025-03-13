@@ -1,5 +1,7 @@
 # COM5012 Smart Library Management System
 
+main.py is the main python file. library.db is the database file that holds two tables, books and requests, and has example data to test against. users.db has one table, users, that stores all user information and details.
+
 ### Requirements
 
 <u>Functional requirements</u>
@@ -56,5 +58,3 @@ Scalable: The system should be able to scale to accommodate an increasing number
 ## Additional Information
 
 I forgot to git commit. I put old revisions of my code to show my progress as a replacement instead. They are named after different stages of progress getting certain parts of my code to work, mostly milestones that I have saved.
-
-
